@@ -103,6 +103,7 @@ Este proyecto utiliza las siguientes versiones específicas de librerías:
 
 ## 📬 Autores
 Jesus Edgar Jaramillo Armenta
+
 Edgar Armando Picasso Villanueva
 
 Proyecto desarrollado como parte de una tarea de la materia de Ciencia de Datos de la Lic. Ciencias de Datos para Negocios
