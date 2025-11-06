@@ -8,6 +8,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 echo.
-echo ✅ Entorno configurado: 'env_demand_forecasting'
-echo 💡 Para activarlo manualmente después: env_demand_forecasting\Scripts\activate.bat
+echo Entorno configurado: 'env_demand_forecasting'
+echo Para activarlo manualmente después: env_demand_forecasting\Scripts\activate.bat
 pause
