@@ -1,9 +1,3 @@
-¡Claro! Aquí tienes un archivo `README.md` profesional, claro y adecuado para tu entregable de **Preparación del Ambiente** en un proyecto de *Demand Forecasting* (pronóstico de demanda). Puedes copiarlo directamente en VS Code.
-
----
-
-### 📄 **README.md**
-
 ```markdown
 # Demand Forecasting - Preparación del Ambiente
 
@@ -93,7 +87,6 @@ Este proyecto utiliza las siguientes versiones específicas de librerías:
 
 ## 🚫 Notas importantes
 
-- **No subas la carpeta del entorno virtual** (`env_demand_forecasting/`) al control de versiones. Ya está excluida si usas el `.gitignore` recomendado.
 - Si deseas usar Jupyter Notebook, actívalo desde el entorno virtual:
   ```bash
   jupyter notebook
@@ -101,26 +94,8 @@ Este proyecto utiliza las siguientes versiones específicas de librerías:
 
 ---
 
-## 📬 Autor
+## 📬 Autores
+Jesus Edgar Jaramillo Armenta
+Edgar Armando Picasso Villanueva
 
-Proyecto desarrollado como parte de una iniciativa académica en Ciencia de Datos.
-
----
-
-> 💡 **¿Problemas?** Asegúrate de que tu repositorio en GitHub esté correctamente vinculado (`git remote -v`) y que hayas seguido los pasos de configuración del entorno.
-```
-
----
-
-### ✅ Siguiente paso
-
-1. Guarda este contenido en un archivo llamado **`README.md`** en la raíz de tu proyecto.
-2. Agrega, haz commit y sube el archivo:
-
-```powershell
-git add README.md
-git commit -m "Agrega README.md con instrucciones de configuración"
-git push origin main
-```
-
-¿Quieres que también cree un `.gitignore` optimizado para Python + entornos virtuales?
+Proyecto desarrollado como parte de una tarea de la materia de Ciencia de Datos de la Lic. Ciencias de Datos para Negocios
