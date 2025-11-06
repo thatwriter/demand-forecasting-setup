@@ -85,6 +85,13 @@ Este proyecto utiliza las siguientes versiones específicas de librerías:
 
 > Las versiones están fijadas en `requirements.txt` para garantizar reproducibilidad.
 
+## ➡️ Próximos pasos
+
+- Integrar pipeline de ingesta de datos reales.
+- Desarrollar primer modelo de regresión para pronóstico de demanda.
+- Implementar validación cruzada y métricas de evaluación (MAE, RMSE).
+
+
 ## 🚫 Notas importantes
 
 - Si deseas usar Jupyter Notebook, actívalo desde el entorno virtual:
